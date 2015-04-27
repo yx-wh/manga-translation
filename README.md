@@ -1,0 +1,2 @@
+# manga-translation
+manga-translation
