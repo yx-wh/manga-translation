@@ -1,0 +1,51 @@
+You have traveled back in time to the year 200 BC with the aim of taking over the world. You brought with you asolar-powered Kindle to which you have downloaded the contents of Wikipedia, Project Gutenberg, and WebMD. You are confident that only you can read its contents, since you alone in the world are fluent in modern English (even the Middle English of Chaucer is centuries away); you know that you can communicate with the locals, since you have prepared for this journey by studying Latin. So far, so good; depending on your strategy for world domination, you can converse with local rulers in the rhetorics of religion, philosophy, governance, andempire; of I am a powerful sorcerer, I have been sent by the gods, I am from the future, I come in peace, and I can help you wage war. The question is what words you use to explain to the locals what the Kindle is.
+
+为了掌控全世界，你穿越回公元前200年。你带上了太阳能的Kindle，并在里面下载了整个维基百科、古登堡计划和美国医疗健康服务网站。你非常自信，只有你能读懂这些内容，因为你是公元前200年唯一能够熟练读懂现代英语的人（开创中世纪英语的乔叟也还有几个世纪才能出现）。你为了这次旅行专门去学习了拉丁语，因此确信你可以与当地人交谈。目前来看一切都很顺利。根据你制定的掌控世界的战略，你会与当地的宗教与哲学修辞统治者、政府官员和国王交谈、告诉他们我是一名被上帝派来的强大巫师，我来自未来，我为和平而来，可以帮助你们打赢战争。但问题是，你要怎么向当地人解释Kindle。
+
+ 
+
+Fortunately, in our own time, lexicographers have been happily working for decades to expand the lexicons of ancient languages with words for modern concepts. Speakers of Yiddish can consult dictionaries that offer words for e-mail, binge watching, and designated driver. Latin aficionados can find a number of glossaries, such as the Vocabula computatralia, that devise new words and phrases for the world of computing. (The Kindle, you might tell your new patrons, is a computatrulum.) By such means, modern languages quietly reshape ancient languages, and living languages dead ones.
+
+幸运的是，在我们所在的时代，词典编撰者花了几十年的时间用当代的词汇含义解释古代语言中的词汇。说意第绪语的人可以查阅字典理解邮件中的句子。拉丁语爱好者会发现许多拉丁语，包括Vocabula computatralia都转变成为计算机领域中的新词。（你可以告诉你的新顾客们，Kindle就是computatrulum。）现代语言就这样悄悄地改变了古语言和死语言。
+
+ 
+
+隐喻拓展
+
+The interesting part of this alchemyis when new terms in the ancient language preserve figures of speech or metaphorical extensions that originated in the modern one. (Metaphorical extension is a kind of semantic change in which a word broadens its meaning to apply to a new domain. For example, surfing used to be something you do in California with a surfboard; now it’s something you do in California with a keyboard.) As a Latin term for a computer window, the Vocabula proposesfenestra—literally, window. Ancient Romans would likely find the usage puzzling, though not wholly unintelligible. (As the historian Anne Friedberg notes, the ubiquity of the window as a functional metaphor for pictorial space goes back to Leon Battista Alberti in the 15th century. However, classical artists sometimes used trompe l’oeil effects, which can entail ‘looking through’ the surface of an image.) The cursor pad, however—muris tabula, or mouse tablet, according to the rules of the glossary—would probably create the wrong impression.
+
+这种方法的有趣之处在于，古语言中的新词保留有源于当代语言的修辞手法或隐喻拓展。（隐喻拓展是一种语义变化，通过这种变化词语的意思可以拓展到一个新的领域。例如surfing以前是在加利福尼亚用冲浪板进行的一种运动，但现在也可以用来表示在加利福尼亚用键盘进行的一个动作。）Vocabula是拉丁语中表示电脑窗口的一个词，这个词本来就是指fenestra，也就是窗户。古罗马人可能会对现代用词感到困惑，但却又能够理解。（历史学家Anne Friedberg发现，window一词普遍用作绘画空间的功能性比喻源自15世纪Leon Battista Alberti。但是，有时古典艺术家会利用视觉陷阱，这种效应需要“看穿”图像表面。）根据术语规则，光标小键盘或鼠标输入板可能会产生错误的印象。
+
+ 
+
+拉丁语中的spam、computer和keyboard
+
+Forget about explaining spam; the English verb for sending junk messages online, which derives from the toxic combination of Monty Python and first-generation trolls, Latinizes as saginare, that is, to make fat. The Latin word for keyboard—claviatura, or instrument for the act of keying—relies on a sense of the word clavis, or key, that would not emerge until the proliferation of musical instruments with keyboards in the14th century. Even the English word computer—which derives from the Latin computare, or to count—took a wayward path through metaphor to reach its present meaning. In the early 20th century, computer was a job title referring to someone who did mathematical reckoning for a living. (In fact, it was a job that, like secretary, tended to belong to women.) Digital computers received their name because they could perform the work of human computers. The antique equivalent might be servus, servant.
+
+忘了解释spam，这是个英语中的动词，指在线发送垃圾信息，它是蟒蛇和第一代巨魔的混合词，其拉丁化拼写为saginare，也就是变胖的意思。拉丁语中的keyboard是claviatura，即用于键入动作的工具，这个词以clavis / 键的意思为基础，直到14世纪才延伸为乐器键盘的意思。英语中就连computer这个源自拉丁语computare的词也是通过隐喻才演变成了如今的意思。早在20世纪初，computer是指进行数学估计的职业。（实际上，这个职业和秘书一样是一个女性职业。）而数字化电脑正是因为能完成computer这个职业工作而被如此命名的。古语言中的对等词还可以是servus，servant。
+
+ 
+
+隐喻的作用（和死亡）
+
+What do these back-formations on the level of metaphor tell us about the interaction of language and culture? In the case of this specific example, they remind us of the active role that metaphor has played in shaping computing technologies and making them comprehensible tousers. “[W]hereas other technologies may be said to have a nature of their own and thus to exercise some agency in their design,” writes the historian Michael Mahoney, “the computer has no such nature. Or, rather, its nature is protean; the computer is—or certainly was at the beginning—what we make of it (or now have made of it) through the tasks we set for it and the programs we write for it.” Metaphors helped us to make and share blueprints for what we wanted to do with computing technologies and then market those technologies to a skittish public.
+
+这些隐喻层面上的逆构法说明了哪些语言和文化之间的互动呢？在特定实例中，隐喻在构成计算机技术并向用户普及的过程中起到了重要作用。历史学家Michael Mahoney写道：“尽管其他技术可能会被认为具有其自身特性，因此这些技术在设计中起到了一定的中介作用。而计算机并没有这种本质，或者说计算机的本质是千变万化的。计算机是，或者可以说一开始是为了完成我们设定的任务以及我们为计算机编写的程序而产生的。”隐喻帮助我们利用计算技术而制作并分享我们想要实现的蓝图，并将这些技术推广至大众。
+
+ 
+
+On the level of language, this phenomenon highlights the profound place of metaphor in all language production. As the OxfordWords blog has previously discussed, ordinary languageuse abounds with buried metaphors, even when we are not explicitly using figurative language. We reserve the term dead language for tongues that no longer have native speakers, but even living languages take many of their words and expressions from metaphors that are dead in the sense that they refer to ideas or ways of life that have no living adherents. New metaphors emerge, grow, and die too quickly for us to sweep away the old husks; we always speak in a conspiracy of the present and the past, although the juxtaposition is more noticeable in the case of Latin. Living languages reshape dead ones for the same reasons, and in the same ways, that living languages reshape themselves.
+
+在语言层面上，这一现象强调了隐喻在语言成果中的深远意义。在牛津辞典博客中曾经讨论过，就算我们不会明确使用比喻性的语言，隐喻仍在普通语言中随处可见。我们保留了母语者不再使用的死语言，但在当代语言中仍然有很多词语和表达引用了死语言中曾使用的隐喻。新的隐喻出现、成长然后消失，这个过程快到我们都来不及剥去旧隐喻的外衣。虽然在拉丁语中并列更加常见，但我们还是经常会同时使用现在的和过去的。当代语言也因相同的原因而改变了死语言，同时又反过来不断更新当代语言。
+
+ 
+
+让过去的成为现代的
+
+Ultimately, this phenomenon may help to remind us of the difference between making the traditional modern and reallymodernizing tradition. The classical distinction between de facto and de jure,for instance, may need augmentation in an era in which software code regulates our activity as a power separate from convention or the courts, as Lawrence Lessigh as summarized with the phrase ‘code is law’. (De facto, de jure, de codex.) Adding our own words—or words that embed our own mental models—to the lexicon of antiquity is fun. Figuring out how the mental models of the past can adjust to the present day is a more challenging task, as we see, for example, in the case of the U.S. Constitution. Though everything changes, nothing perishes, even on the World Wide Web—or rather, the Tela Totius Terrae.
+
+最终，这种现象可能有助于提醒我们，让传统变得现代和真正现代化的传统之间的区别。以事实和法理之间的经典区别为例，在这个时代，软件代码作为分割公约或法庭的力量规范了我们的活动，事实和法理的区别可能需要在这样的时代有所增强。这就如Lawrence Lessig曾总结的一句话“代码就是法律”。把我们自己的语言——或用嵌入我们思维模式的词语——加给古典词汇是件趣事。弄清过去的思维模式如何适应当代是一个更具挑战性的任务，例如正如我们所见的美国宪法的例子。虽然一切都在变，但事事都未消亡，即使在互联网（或用拉丁语说是Tela Totius Terrae）上亦是如此。
+
+
+本文内容编译自牛津辞典博客（blog.oxforddictionaries.com），牛津大学出版社拥有中英文两版版权。如需转载，请标明出处。
+
